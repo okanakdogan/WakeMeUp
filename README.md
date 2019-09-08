@@ -1,2 +1,2 @@
 # WakeMeUp
-An Alarm App for learn&amp;pratice programming with Kotlin
+An Alarm App for learn&amp;practice programming with Kotlin
