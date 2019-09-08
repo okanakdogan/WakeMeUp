@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content" android:gravity="center">
+
+    <TextView
+            android:text="00:00"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:id="@+id/text_time" android:layout_weight="0"
+            android:textSize="48sp" android:textAlignment="center" android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"/>
+    <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" android:layout_weight="1" android:id="@+id/linear_days"/>
+    <Button
+            android:layout_width="36dp"
+            android:layout_height="36dp" android:id="@+id/button_on_off" android:background="@drawable/ic_clock_m"
+            android:layout_margin="5dp" android:backgroundTint="@color/off"/>
+</LinearLayout>

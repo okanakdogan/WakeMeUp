@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WakeMeUp</string>
+    <string name="no_alarm_text">No alarms</string>
+    <string name="save_button">save</string>
+    <string name="remove_alarm">Remove Alarm</string>
+    <string name="remove_alarm_message">Are you want to remove this alarm?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="add_intent">akdogan.wakemeup.ADD_INTENT</string>
+    <string name="off_intent">akdogan.wakemeup.OFF_INTENT</string>
+
+</resources>
